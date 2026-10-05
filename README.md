@@ -1,7 +1,9 @@
 # Lab 4 - Encapsulation
 
 Name: ROLUNA, FRANZ A.
-Section: 2A
+
+Section: BSIT 2E
+
 Date: October 2, 2026
 
 ## Console Output
