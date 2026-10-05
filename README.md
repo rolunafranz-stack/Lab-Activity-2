@@ -1,6 +1,10 @@
-ROLUNA, FRANZ A.    BSIT 2-E
+# Lab 4 - Encapsulation
 
-Console Output:
+Name: ROLUNA, FRANZ A.
+Section: 2A
+Date: October 2, 2026
+
+## Console Output
 
 Toyota, Corolla, 1995
 Age: 31
@@ -37,5 +41,3 @@ Initial year: 2026
 
 New vehicle with year 2027
 Initial year: 2026
-
-
